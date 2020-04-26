@@ -1,4 +1,4 @@
 # Image-Super-Resolution
 Implementing deep learning techniques for image super-resolution.
 
--SRGAN (Super-resolution GAN)
+-SRGAN (Super-resolution GAN) on CelebAttributes Dataset
